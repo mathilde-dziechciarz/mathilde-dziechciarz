@@ -12,7 +12,7 @@ I use Git and GitHub daily, but most of my work was built for companies and is c
 - 👁️ **Computer vision project**: coming soon.
 
 **Professional & academic:**
-- 🧬 Diffusion-based hybridization of real and synthetic health data, with privacy guarantees (Ramsay Santé)
+- 🧬 Diffusion-based hybridization of real and synthetic health data, with privacy guarantees (Ramsay Santé, private)
 - 🏥 University Certificate in Biomedical Engineering (AI in Healthcare, medical imaging, genomics)
 
 ## 🚀 Featured projects
