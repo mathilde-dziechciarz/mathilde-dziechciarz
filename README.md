@@ -1,4 +1,4 @@
-# Hi, I'm Mathilde 👋
+# Hi, I'm Mathilde!
 
 MEng student at **CentraleSupélec** and Data Scientist at **Paris Digital Lab**, building ML prototypes for corporate partners.
 I'm looking for a **6-month applied AI/ML internship starting February 2027**, ideally in healthcare.
