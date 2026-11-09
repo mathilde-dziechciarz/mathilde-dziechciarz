@@ -21,9 +21,9 @@ I use Git and GitHub daily, but most of my work was built for companies and is c
 - **Exposome Study** (INSERM, private): statistical pipeline in R on 1,300+ subjects to study environmental factors linked to childhood asthma.
 
 ## 🛠️ Tech stack
-**Languages:** Python · SQL · R
-**ML & Data:** PyTorch · Scikit-Learn · Pandas · LLM APIs
-**Tools:** Git · Docker · PostgreSQL · React Native
+- **Languages:** Python · SQL · R
+- **ML & Data:** PyTorch · Scikit-Learn · Pandas · LLM APIs
+- **Tools:** Git · Docker · PostgreSQL · React Native
 
 ## 📫 Contact
 💼 [LinkedIn](https://www.linkedin.com/in/mathilde-dziechciarz)
