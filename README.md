@@ -26,5 +26,4 @@ I use Git and GitHub daily, but most of my work was built for companies and is c
 **Tools:** Git · Docker · PostgreSQL · React Native
 
 ## 📫 Contact
-- 📧 [mathilde.dziechciarz@gmail.com](mailto:mathilde.dziechciarz@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mathilde-dziechciarz)
+💼 [LinkedIn](https://www.linkedin.com/in/mathilde-dziechciarz)
